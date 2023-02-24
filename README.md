@@ -24,13 +24,13 @@ Here are some basic things to know about Tejiri;
 
 - 👋 Hi, I’m @tejiri-code
 - 🌱 I’m currently exploring Front-end Web Development,
-- 👯 I’m looking for people to contribute to my projects.
+- 👥 I’m looking for people to contribute to my projects.
 - 🤔 I’m looking for help with expanding my community,
 - 💞️ I’m looking to collaborate on web design projects
-- 💬 Ask me about anything🌚,
+- 💬 Ask me about anything🫱🏾‍🫲🏽,
 - 📫 How to reach me: Email: evelynedjere@gmail.com.
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: I love Writing.
+- 👩🏽 Pronouns: She/Her
+- 📝 Fun fact: I love Writing.
 
 #### My Core Languages
 <code><img src="https://th.bing.com/th/id/OIP.o-wNqCyhGc3XpFMfCCFpigHaEK?w=284&h=180&c=7&r=0&o=5&pid=1.7" width="60" title="HTML" /></code>
