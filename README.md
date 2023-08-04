@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 
 
 ###   **What's my current role in tech?** </h2>
-       { Software Engineer } 
+       { Frontend Developer } 
 
 #### Connect with me 
 <code><a href="https://www.linkedin.com/in/edjere-evelyn-oghenetejiri-5267a9250/"><img src="https://th.bing.com/th/id/OIP.Ff1a2zx1DnGg5rppyqq-XwHaHa?w=201&h=201&c=7&r=0&o=5&pid=1.7" width="60" /></a></code>
