@@ -12,12 +12,12 @@ You can click the Preview link to take a look at your changes.
 
 ###   **What's my current role in tech?** </h2>
        { Frontend Developer } 
-
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Tejiri-code" alt="GitHub Streak" /></a>
 #### Connect with me 
 <code><a href="https://www.linkedin.com/in/edjere-evelyn-oghenetejiri-5267a9250/"><img src="https://th.bing.com/th/id/OIP.Ff1a2zx1DnGg5rppyqq-XwHaHa?w=201&h=201&c=7&r=0&o=5&pid=1.7" width="60" /></a></code>
 <code><a href="https://www.instagram.com/tejiiri/"><img src="https://th.bing.com/th/id/OIP.tHP8rVlfCbCv4ScNkBasjAHaHa?w=179&h=180&c=7&r=0&o=5&pid=1.7" width="70" /></a></code>
 
-<img align="right" alt="Coding" width="370" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif"/>
+
 
 #### About
 Here are some basic things to know about Tejiri;
