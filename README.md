@@ -37,9 +37,11 @@ Here are some basic things to know about Tejiri;
 <code><img src="https://th.bing.com/th/id/OIP.ROhIEobjjPmlblmTMkTacQHaFj?w=239&h=180&c=7&r=0&o=5&pid=1.7" width="60" title="CSS" /></code>
 <code><img src="https://th.bing.com/th/id/OIP.BgEDA3XInJbZBucq4jAe7AHaEo?w=277&h=180&c=7&r=0&o=5&pid=1.7" width="60" title="JavaScript" /></code>
 
+
 #### Frameworks/Libraries I Use
 <code><img src="https://th.bing.com/th/id/OIP.c4RBIyTHaeRH08T4bp_waAHaGO?w=196&h=180&c=7&r=0&o=5&pid=1.7" width="70" title="Bootstrap" /></code>
-<code><img src="[https://www.bing.com/images/search?view=detailV2&ccid=vGpVk%2fAt&id=489690C3CC2EE8C1CA97E9BC40373210BAFCA849&thid=OIP.vGpVk_AtbLCykPC3plACHwAAAA&mediaurl=https%3a%2f%2fvasterra.com%2fblog%2fwp-content%2fuploads%2f2021%2f08%2fTailwind-img.png&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.bc6a5593f02d6cb0b290f0b7a650021f%3frik%3dSaj8uhAyN0C86Q%26pid%3dImgRaw%26r%3d0&exph=430&expw=430&q=tailwind+png&simid=608025975064371628&FORM=IRPRST&ck=714686923AC8AA4CCD14DE11ED8B82BF&selectedIndex=12](https://media.zeemly.com/zeemly/product/tailwind-css.png)"/></code>
+<code><img src="https://miro.medium.com/v2/resize:fit:1400/1*_6ooq0R60ba3UT5c-QVemA.png" width="100" height="60" title="Tailwind Css" /></code>
+<code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/React_Logo_SVG.svg/1200px-React_Logo_SVG.svg.png" width="60" title="React" /></code>
 
 #### Tools I Use
 <code><img src="https://th.bing.com/th/id/OIP.LMiTJhzuaVrgQUr0ZLZ4BAHaEc?w=258&h=180&c=7&r=0&o=5&pid=1.7" width="60" title="Visual Studio Code" /></code>
