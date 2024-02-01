@@ -13,6 +13,11 @@ You can click the Preview link to take a look at your changes.
 ###   **What's my current role in tech?** </h2>
        { Frontend Developer } 
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Tejiri-code" alt="GitHub Streak" /></a>
+| GitHub Stats | Most Used Languages |
+| ----------- | ----------- |
+| ![M](https://github-readme-stats.vercel.app/api?username=tejiri-code&show_icons=true&theme=transparent) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tejiri-code&layout=compact&theme=transparent) |
+
+---
 #### Connect with me 
 <code><a href="https://www.linkedin.com/in/edjere-evelyn-oghenetejiri-5267a9250/"><img src="https://th.bing.com/th/id/OIP.Ff1a2zx1DnGg5rppyqq-XwHaHa?w=201&h=201&c=7&r=0&o=5&pid=1.7" width="60" /></a></code>
 <code><a href="https://www.instagram.com/tejiiri/"><img src="https://th.bing.com/th/id/OIP.tHP8rVlfCbCv4ScNkBasjAHaHa?w=179&h=180&c=7&r=0&o=5&pid=1.7" width="70" /></a></code>
