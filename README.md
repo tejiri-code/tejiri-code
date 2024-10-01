@@ -28,7 +28,7 @@ You can click the Preview link to take a look at your changes.
 Here are some basic things to know about Tejiri;
 
 - 👋 Hi, I’m @tejiri-code
-- 🌱 I’m currently exploring Front-end Web Development,
+- 🌱 I’m currently exploring Front-end and Backend Development,
 - 👥 I’m looking for people to contribute to my projects.
 - 🤔 I’m looking for help with expanding my community,
 - 💞️ I’m looking to collaborate on web design projects
