@@ -79,6 +79,7 @@ Hello! I'm **Tejiri** ([@tejiri-code](https://github.com/tejiri-code)). I’m a 
 
 ### 📊 GitHub Stats
 
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=tejiri-code&theme=dark&hide_total_contributions=true&hide_current_streak=true&hide_longest_streak=true" alt="GitHub Streak" /></a>
 
 | GitHub Stats | Most Used Languages |
 | ------------ | ------------------- |
