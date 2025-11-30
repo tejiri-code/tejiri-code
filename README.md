@@ -118,13 +118,7 @@ _Check out my [GitHub repositories](https://github.com/tejiri-code?tab=repositor
   
 ![GitHub Streak](https://streak-stats.demolab.com?user=tejiri-code&theme=tokyonight&hide_border=true&border_radius=8&card_width=500)
 
-<div style="display: flex; gap: 10px; justify-content: center;">
-  
-![Tejiri's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tejiri-code&show_icons=true&theme=tokyonight&hide_border=true&border_radius=8&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tejiri-code&layout=compact&theme=tokyonight&hide_border=true&border_radius=8&langs_count=8)
-
-</div>
 
 </div>
 
