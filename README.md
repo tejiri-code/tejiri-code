@@ -1,17 +1,18 @@
-<!---
-tejiri-code/tejiri-code is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
-<h1 align="left">Hi, I'm Tejiri 👋🏾</h1>
-<h3 align="left">Frontend Developer & Aspiring Full-Stack Developer</h3>
+<h1 align="left">Hi, I'm Oghenetejiri (Tejiri) 👋🏾</h1>
+<h3 align="left">AI Developer • Full-Stack Engineer • MSc AI Student</h3>
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/edjere-evelyn-oghenetejiri-5267a9250/">
-    <img src="https://th.bing.com/th/id/OIP.Ff1a2zx1DnGg5rppyqq-XwHaHa?w=201&h=201&c=7&r=0&o=5&pid=1.7" width="60" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/evelyn-edjere/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://www.instagram.com/tejiiri/">
-    <img src="https://th.bing.com/th/id/OIP.tHP8rVlfCbCv4ScNkBasjAHaHa?w=179&h=180&c=7&r=0&o=5&pid=1.7" width="70" alt="Instagram" />
+  <a href="https://github.com/tejiri-code">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://twitter.com/oghenetejiirii?s=11&t=iqkQNAbtjjHj9gPd2kh0yg">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="mailto:evelynedjere@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
 
@@ -19,84 +20,167 @@ You can click the Preview link to take a look at your changes.
 
 ### 🚀 About Me
 
-Hello! I'm **Tejiri** ([@tejiri-code](https://github.com/tejiri-code)). I’m a passionate Frontend Developer who is steadily expanding my skills into backend development. My goal is to become a proficient full-stack developer by integrating robust backend solutions with engaging, responsive user interfaces.
+Hello! I'm **Oghenetejiri** ([@tejiri-code](https://github.com/tejiri-code)) — a builder who blends **engineering**, **AI**, and **storytelling** to create technology that feels human, not robotic.
 
-- 🔭 I’m currently working on integrating backend services into my projects.
-- 🌱 I’m exploring **Node.js**, **Express**, and **MongoDB** alongside my frontend work.
-- 👯 I’m looking for collaborators on web design and full-stack projects.
-- 💬 Ask me about web development, UI/UX, or anything tech!
-- 📫 How to reach me: [evelynedjere@gmail.com](mailto:evelynedjere@gmail.com)
-- 👩🏽 Pronouns: She/Her
-- 📝 Fun fact: I love writing and storytelling.
+I'm currently pursuing my **MSc in Artificial Intelligence** at Birmingham City University, with a BSc in Software Engineering from Babcock University. Over the past **3-4 years**, I've built AI-driven applications and modern web products across internships, startups, and hackathons — securing **$80K+ in grants** and winning multiple competitive hackathons.
+
+- 🧠 **Current Focus**: Building AI-powered applications with LLMs, deep learning, and intelligent agents
+- 🔭 **Working On**: Advanced machine learning models, full-stack AI applications, and autonomous systems
+- 🎯 **Specialization**: AI engineering, LLM integration, human-centered product design
+- 💼 **Open To**: Internships, full-time opportunities, and collaborative projects
+- 📫 **Reach Me**: [evelynedjere@gmail.com](mailto:evelynedjere@gmail.com)
+- 👩🏽 **Pronouns**: She/Her
+- ✨ **Fun Fact**: I love writing and storytelling — I believe the best tech tells a great story
 
 ---
 
-### 💻 My Tech Stack
+### 💻 Tech Stack
 
-#### Core Frontend Languages
-<div>
-  <!-- HTML5 -->
-  <img src="https://th.bing.com/th/id/OIP.o-wNqCyhGc3XpFMfCCFpigHaEK?w=284&h=180&c=7&r=0&o=5&pid=1.7" width="60" alt="HTML5" title="HTML5" />
-  <!-- CSS3 -->
-  <img src="https://th.bing.com/th/id/OIP.ROhIEobjjPmlblmTMkTacQHaFj?w=239&h=180&c=7&r=0&o=5&pid=1.7" width="60" alt="CSS3" title="CSS3" />
-  <!-- JavaScript -->
-  <img src="https://th.bing.com/th/id/OIP.BgEDA3XInJbZBucq4jAe7AHaEo?w=277&h=180&c=7&r=0&o=5&pid=1.7" width="60" alt="JavaScript" title="JavaScript" />
-  <!-- TypeScript -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="60" alt="TypeScript" title="TypeScript" />
-</div>
+#### **Languages**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-#### Frontend Frameworks & Libraries
-<div>
-  <!-- Bootstrap -->
-  <img src="https://th.bing.com/th/id/OIP.c4RBIyTHaeRH08T4bp_waAHaGO?w=196&h=180&c=7&r=0&o=5&pid=1.7" width="70" alt="Bootstrap" title="Bootstrap" />
-  <!-- Tailwind CSS -->
-  <img src="https://miro.medium.com/v2/resize:fit:1400/1*_6ooq0R60ba3UT5c-QVemA.png" width="100" height="60" alt="Tailwind CSS" title="Tailwind CSS" />
-  <!-- React -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/React_Logo_SVG.svg/1200px-React_Logo_SVG.svg.png" width="60" alt="React" title="React" />
-  <!-- Redux -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="60" alt="Redux" title="Redux" />
-  <!-- Sass -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1200px-Sass_Logo_Color.svg.png" width="60" alt="Sass" title="Sass" />
-</div>
+#### **AI & Machine Learning**
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Transformers](https://img.shields.io/badge/🤗_Transformers-FFD21E?style=for-the-badge)
+![LangChain](https://img.shields.io/badge/🦜_LangChain-1C3C3C?style=for-the-badge)
 
+#### **Frontend Development**
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 
-#### Backend & Other Technologies
-<div>
-  <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" width="60" alt="Node.js" title="Node.js" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" width="60" alt="Express" title="Express" />
-  <img src="https://webassets.mongodb.com/_com_assets/cms/mongodb-logo-rgb-j6w271g1xn.jpg" width="60" alt="MongoDB" title="MongoDB" />
-</div>
+#### **Backend & Databases**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
-#### Tools & Editors
-<div>
-  <img src="https://th.bing.com/th/id/OIP.LMiTJhzuaVrgQUr0ZLZ4BAHaEc?w=258&h=180&c=7&r=0&o=5&pid=1.7" width="60" alt="Visual Studio Code" title="Visual Studio Code" />
-  <img src="https://th.bing.com/th/id/OIP.sV7tva-728oySeOUL0-vOwHaHa?w=152&h=180&c=7&r=0&o=5&pid=1.7" width="60" alt="GitHub" title="GitHub" />
-  <img src="https://th.bing.com/th/id/OIP.BwOfTMOToxuca7bIcJCoKgHaFj?w=219&h=180&c=7&r=0&o=5&pid=1.7" width="60" alt="Git" title="Git" />
-  <img src="https://logonoid.com/images/android-studio-logo.png" width="60" alt="Android Studio" title="Android Studio" />
-</div>
+#### **DevOps & Tools**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+---
+
+### 🎯 Featured Projects
+
+#### 🏆 **Smart Recycling Assistant** (Hackathon Winner 🥇)
+AI-powered waste classification app achieving **95% accuracy** in real-time waste identification.
+- **Tech**: Next.js, TypeScript, Python, TensorFlow, MongoDB, Tailwind CSS
+- **Impact**: Won 1st place at the Hackathon for environmental innovation
+- **[Live Demo →](https://trash-w-me.vercel.app/)**
+
+#### 🌍 **Global Talent Compass**
+Intelligent platform analyzing portfolios against global visa criteria to identify talent pathways.
+- **Tech**: Next.js, TypeScript, Python, Node.js, MongoDB
+- **Impact**: Simplifies complex visa eligibility assessment in minutes
+- **[Live Demo →](https://proof-of-talent.vercel.app/)**
+
+#### 🤖 **AI Study Buddy**
+Adaptive learning companion providing personalized feedback and study plans using OpenAI API.
+- **Tech**: Next.js, TypeScript, Tailwind CSS, OpenAI API
+- **Impact**: Improved student engagement with instant, tailored feedback
+- **[Live Demo →](https://www.learnwithrodney.app/)**
+
+#### 🏥 **AI-Powered Healthcare System**
+Comprehensive healthcare management platform with intelligent automation and workflow integration.
+- **Tech**: React, Tailwind CSS, Python, Node.js
+- **[Live Demo →](https://seraphmed.vercel.app/)**
+
+#### 📖 **Bible Verse Detector (Kerygma)**
+AI tool that intelligently identifies and contextualizes biblical references in text.
+- **Tech**: Next.js, TypeScript, Python, Node.js
+- **[Live Demo →](https://kerygma.vercel.app/)**
+
+_Check out my [GitHub repositories](https://github.com/tejiri-code?tab=repositories) for more projects!_
 
 ---
 
 ### 📊 GitHub Stats
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=tejiri-code&theme=dark&hide_total_contributions=true&hide_current_streak=true&hide_longest_streak=true" alt="GitHub Streak" /></a>
+<div align="center">
+  
+![GitHub Streak](https://streak-stats.demolab.com?user=tejiri-code&theme=tokyonight&hide_border=true&border_radius=8&card_width=500)
 
-| GitHub Stats | Most Used Languages |
-| ------------ | ------------------- |
-| ![Tejiri GitHub Stats](https://github-readme-stats.vercel.app/api?username=tejiri-code&show_icons=true&theme=transparent) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tejiri-code&layout=compact&theme=transparent) |
+<div style="display: flex; gap: 10px; justify-content: center;">
+  
+![Tejiri's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tejiri-code&show_icons=true&theme=tokyonight&hide_border=true&border_radius=8&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tejiri-code&layout=compact&theme=tokyonight&hide_border=true&border_radius=8&langs_count=8)
+
+</div>
+
+</div>
+
+---
+
+### 🏆 Key Achievements
+
+- 💰 **$80,000+** in grants and funding secured for technical projects
+- 🥇 **Hackathon Winner** — 1st place for AI-powered environmental solutions
+- 🚀 **15+ Production Projects** deployed across AI, healthcare, education domains
+- 📚 **MSc Artificial Intelligence** student at Birmingham City University
+- 👥 **Team Leadership** — Led cross-functional development teams
+- 🎓 **BSc Software Engineering** from Babcock University
 
 ---
 
 ### 🌱 Currently Learning
 
-I'm deepening my understanding of backend development while enhancing my full-stack capabilities. Expect updates on new projects, tutorials, and insights into my learning process!
+- Advanced **Transformer architectures** (BERT, GPT, custom models)
+- **Reinforcement Learning** and autonomous agent systems
+- **MLOps** and production-scale AI deployment
+- **Distributed systems** and cloud-native architectures
+- Building **responsible AI** systems with human-centered design
 
 ---
 
-#### Lifestyle
+### 💼 What I Offer
 
-![Lifestyle GIF](https://user-images.githubusercontent.com/105937740/186015907-bd8b7db8-f875-454b-bf1a-36177129aa42.gif)
+🎯 **Frontend Architecture** — Sleek, responsive interfaces with React/Next.js and Tailwind CSS  
+⚙️ **Full-Stack Engineering** — Robust applications with secure APIs and efficient databases  
+🤖 **AI & ML Development** — Custom models, LLM integration, and intelligent agents  
+🧠 **Deep Learning** — Computer vision, NLP, and neural network architectures  
+📊 **Data Engineering** — Pipeline development and model deployment at scale
 
 ---
 
-Feel free to reach out if you have any questions or just want to connect!
+### 🤝 Let's Connect!
+
+I'm always open to discussing:
+- 💼 **Job Opportunities** (Internships & Full-Time Roles)
+- 🚀 **Collaborative Projects** in AI, full-stack development, or innovative tech
+- 🧠 **AI & Machine Learning** — Latest research, applications, and best practices
+- 💡 **Innovative Ideas** that merge technology with human-centered design
+
+**Available for internships immediately** — Let's build something amazing together!
+
+📧 Email: [evelynedjere@gmail.com](mailto:evelynedjere@gmail.com)  
+🔗 LinkedIn: [evelyn-edjere](https://www.linkedin.com/in/evelyn-edjere/)  
+🐦 Twitter: [@oghenetejiirii](https://twitter.com/oghenetejiirii?s=11&t=iqkQNAbtjjHj9gPd2kh0yg)
+
+---
+
+<div align="center">
+  
+### ⭐️ **"Building tech that feels human, not robotic"** ⭐️
+
+![Visitor Count](https://komarev.com/ghpvc/?username=tejiri-code&color=blueviolet&style=for-the-badge)
+
+</div>
