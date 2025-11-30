@@ -92,7 +92,7 @@ Intelligent platform analyzing portfolios against global visa criteria to identi
 - **Impact**: Simplifies complex visa eligibility assessment in minutes
 - **[Live Demo →](https://proof-of-talent.vercel.app/)**
 
-#### 🤖 **AI Study Buddy**
+#### 🤖 **AI Study Buddy** (SDG Hackathon Winner 🥇)
 Adaptive learning companion providing personalized feedback and study plans using OpenAI API.
 - **Tech**: Next.js, TypeScript, Tailwind CSS, OpenAI API
 - **Impact**: Improved student engagement with instant, tailored feedback
