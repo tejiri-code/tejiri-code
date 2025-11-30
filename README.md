@@ -114,11 +114,11 @@ _Check out my [GitHub repositories](https://github.com/tejiri-code?tab=repositor
 
 ### 📊 GitHub Stats
 
-<div align="center">
+<div >
   
 ![GitHub Streak](https://streak-stats.demolab.com?user=tejiri-code&theme=tokyonight&hide_border=true&border_radius=8&card_width=500)
 
-
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/tejiri-code?cardType=level-alternate&theme=github-dark&preferLogin=false)](https://git.io/awesome-stats-card)
 
 </div>
 
