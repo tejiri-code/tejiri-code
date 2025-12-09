@@ -1,4 +1,4 @@
-<h1 align="left">Hi, I'm Oghenetejiri (Tejiri) 👋🏾</h1>
+<h1 align="left">Hi, I'm Evelyn Edjere Oghenetejiri (Tejiri) 👋🏾</h1>
 <h3 align="left">AI Developer • Full-Stack Engineer • MSc AI Student</h3>
 
 <div align="left">
